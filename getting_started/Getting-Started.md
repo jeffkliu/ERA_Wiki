@@ -55,3 +55,5 @@ In order to access your private key theres a few steps you will need to take.
 3. On the top bar of the wallet select: Help, then Debug window, and now within the popup click on the *Console* option at the very top.  You may now type `dumpprivkey <youreraaddress>`, the console will now print out your wallets private key.
 ![](/Images/Debug-window.png)
 4. Save your private key to a safe location where it cannot be accessed from the internet. NEVER show this key to anyone else, with this key anyone can have access to all your ERA.
+
+Has this wiki helped you out? Throw a couple ERA my way: EroWkpqM3vZCxFXh2pjJB1PR79Lqqj6wfy
