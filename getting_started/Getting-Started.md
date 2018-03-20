@@ -51,7 +51,7 @@ Select the *Receive* tab in the ERA wallet program, click on the address autogen
 In order to access your private key theres a few steps you will need to take.
 1. Have your ERA wallet open (duh)
 2. Unlock your wallet if it is locked. Unlock your wallet by clicking the *Settings* tab at the top of the wallet, then click *Unlock Wallet*, but make sure when you unlock your wallet the small tick box saying *Staking only* is unticked.
-![](/Images/Unlock-wallet.png)
 ![Make sure "For staking only" is unticked](/Images/Untick-staking.png)
 3. On the top bar of the wallet select: Help, then Debug window, and now within the popup click on the *Console* option at the very top.  You may now type `dumpprivkey <youreraaddress>`, the console will now print out your wallets private key.
+![](/Images/Debug-window.png)
 4. Save your private key to a safe location where it cannot be accessed from the internet. NEVER show this key to anyone else, with this key anyone can have access to all your ERA.
