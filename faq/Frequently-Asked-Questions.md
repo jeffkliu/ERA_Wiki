@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-Did this guide help you out? Throw a couple ERA my way: EroWkpqM3vZCxFXh2pjJB1PR79Lqqj6wfy
+**__Did this guide help you out? Throw a couple ERA my way:__** EroWkpqM3vZCxFXh2pjJB1PR79Lqqj6wfy
 
 ## Other
 - **Q: What is the max supply cap for ERA?**
@@ -19,7 +19,7 @@ Did this guide help you out? Throw a couple ERA my way: EroWkpqM3vZCxFXh2pjJB1PR
 	
 - **Q: How do i know if im staking?**
 
-	- A: 
+	- A: From within the walle you cvan verify if your wallet 
 	
 	
 ## Mining
