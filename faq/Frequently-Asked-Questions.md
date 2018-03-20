@@ -14,8 +14,6 @@ Did this guide help you out? Throw a couple ERA my way: EroWkpqM3vZCxFXh2pjJB1PR
 	- A: The values will always be slightly different, but if there is a large difference, it is likely you have just started mining. Your hashrate is calculated over time, and so it will slowly go up to the correct level.
 	
 - **Q: I've been mining, but the balance in my wallet hasn't gone up?**
-	- A: To save money on fees, the pools send payouts in chunks. Check your pool website for your pending balance.
-	
+	- A: To save money on fees, the pools send payouts in chunks. Check your pool website for your pending balance.\
+
 ## Other
-- **Q: What is the max coin supply for this coin?**
-	-
