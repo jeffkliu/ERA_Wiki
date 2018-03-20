@@ -17,4 +17,5 @@ Did this guide help you out? Throw a couple ERA my way: EroWkpqM3vZCxFXh2pjJB1PR
 	- A: To save money on fees, the pools send payouts in chunks. Check your pool website for your pending balance.
 	
 ## Other
-- **Q: How do I get started mining?**
+- **Q: What is the max coin supply for this coin?**
+	-
