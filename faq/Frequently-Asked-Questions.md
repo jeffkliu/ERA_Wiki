@@ -42,7 +42,20 @@
 - **Q: What is the benifits of staking over proof of work?**
 
 	- A: Staking systems are *far* more energy efficent than proof of work, you could run a staking wallet on a raspberry pi.
-		
+	
+- **Q: Is there a minimum amount of coins to stake?**
+
+	- A: Short answer, no. Long answer, it depends, stakign acts like a lottery system so the more coins you have the more likley you are to win a stake.
+	
+- **Q: Does my computer have to be left turned on in order to stake?**
+	
+	- A: Yes, your computer must be on and active (if its asleep it wont stake).
+	
+- **Q: Why are my PoS rewards showing “Generated but not accepted”?**
+
+	- A: The stake process acts like a lottery, what this occasionally results in is the wallet software attempting to validate the next block at the same time as another person, in one of these cases only one will be successful at validating the block; the wallet not chosen will display a "generated but not accepted" message, simply continue to stake and eventually your wallet will validate a future block.
+	
+	
 ## Mining
 
 - **Q:What is the mining block reward?**
