@@ -17,3 +17,5 @@ Did this guide help you out? Throw a couple ERA my way: EroWkpqM3vZCxFXh2pjJB1PR
 	- A: To save money on fees, the pools send payouts in chunks. Check your pool website for your pending balance.\
 
 ## Other
+- **Q: What is the max supply cap for ERA?**
+	- A: ERA has a maximum supply of 240 million coins. (240,000,000)
