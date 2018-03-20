@@ -1,5 +1,7 @@
 # Getting Started
 
+**__Did this guide help you out? Throw a couple ERA my way:__** EroWkpqM3vZCxFXh2pjJB1PR79Lqqj6wfy
+
 ## Downloading the wallet
 
 The most recent ERA wallet release can be [found here.](https://github.com/EraNetwork/Era/releases)
