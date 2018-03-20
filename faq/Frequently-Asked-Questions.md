@@ -2,16 +2,24 @@
 
 **__Did this guide help you out? Throw a couple ERA my way:__** EroWkpqM3vZCxFXh2pjJB1PR79Lqqj6wfy
 
-## Other
+## Basics
 - **Q: What is the max supply cap for ERA?**
 
 	- A: ERA has a maximum supply of 240 million coins. (240,000,000)
+	
+- **Q: What is the average block time?**
+
+	- A: ERA has a target block time of 45 seconds.
+	
+- **Q: What PoW Algorithm does ERA use?**
+
+	- A: ERA uses the HMQ1725 algorithm.
 
 ## Staking
 
 - **Q: What is staking?**
 
-	- A: Staking is a replacement or complementary system to proof of work, Staking is the process your wallet uses to validate transactions and award you with coins. When your wallet is staking, it is checking transactions to make sure everyone who sends coins actually owned those coins and had the right to transfer them. If your wallet completes a stake attempt you will be rewarded 10 ERA as compensation for securing the network.
+	- A: Staking is a replacement or complementary system to proof of work, Staking is the process your wallet uses to validate transactions and award you with coins. When your wallet is staking, it is checking transactions to make sure everyone who sends coins actually owned those coins and had the right to transfer them. If your wallet completes a stake attempt you will be rewarded 10 ERA as compensation for securing the network. *Note:* a small 2% fee is taken from every stake reward and sent to the ERA comunity fund where the team uses those coins to get added to new exchanges and support other projects.
 	
 - **Q: How do i stake?**
 
@@ -27,8 +35,23 @@
 **Not Staking:**
 ![X means its not staking](/Images/not-staking.png)
 	
+- **Q: What is the Staking reward?**
+
+	- A: As a reward for your wallet being used to verify a block on the network, you are rewarded 10 ERA coins.
 	
+- **Q: What is the benifits of staking over proof of work?**
+
+	- A: Staking systems are *far* more energy efficent than proof of work, you could run a staking wallet on a raspberry pi.
+		
 ## Mining
+
+- **Q:What is the mining block reward?**
+
+	- A: The block reward is 10 ERA
+	
+- **Q: The PoW reward is the same as the staking reward, why bother mine?**
+
+	- A: Honestly, what else are you going to do with that 1000$ GPU. Or maybe you just hate the enviroment?
 
 - **Q: How do I get started mining?**
 
