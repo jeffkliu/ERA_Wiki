@@ -19,7 +19,10 @@
 	
 - **Q: How do i know if im staking?**
 
-	- A: From within the walle you cvan verify if your wallet 
+	- A: From within the wallet you can verify if your wallet is staking by checking the small icon on the bottom left of the wallet as seen below.
+
+![Pickaxe means its staking](/Images/staking.png)
+![X means its not staking](/Images/not-staking.png)
 	
 	
 ## Mining
