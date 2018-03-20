@@ -88,3 +88,10 @@
 	
 ## miscellaneous
 
+- **Q: Is it safe to store coins on an exchange?**
+
+	- A: While many exchange sites are reliable, the age old saying in blockchain always holds true, if you don't own your private keys you don't own your coins. Don't want to download the blockchain? no worries you can always use our web wallet or generate a paper wallet (paper wallet generator comming soon).
+	
+- **Q: Where can I see my transactions?**
+
+	- A: You can check your transactions on the wallet explorer or the web explorer.
